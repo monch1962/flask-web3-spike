@@ -6,7 +6,7 @@ First start a local blockchain running
 
 `$ cd blockchain && npm install ganache && ganache-cli`
 
-Now install the Python libraries
+Now start a new terminal, and install the Python libraries
 
 `$ pip install -r requirements.txt`
 
