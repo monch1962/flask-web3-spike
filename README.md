@@ -6,6 +6,10 @@ First start a local blockchain running
 
 `$ cd blockchain && npm install ganache && ganache-cli`
 
+Now install the Python libraries
+
+`$ pip install -r requirements.txt`
+
 Then test Python connectivity to the blockchain
 
 `$ python test_web3.py`
