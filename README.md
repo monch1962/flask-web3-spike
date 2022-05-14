@@ -5,7 +5,7 @@ Spike to play with Flask &amp; web3
 
 Update everything, including Python 3
 
-`$ sudo apt-get update && sudo apt-get upgrade && sudo apt-get install python3`
+`$ sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install python3`
 
 Then start a local blockchain running
 
@@ -17,7 +17,7 @@ Now start a new terminal, and install the Python libraries
 
 Then test Python connectivity to the blockchain
 
-`$ python test_web3.py`
+`$ pytest -v`
 
 Then start the app server running
 
