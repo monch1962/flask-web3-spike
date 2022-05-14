@@ -2,9 +2,14 @@
 Spike to play with Flask &amp; web3
 
 ## To use
-First start a local blockchain running
 
-`$ cd blockchain && npm install ganache && ganache-cli`
+Update everything, including Python 3
+
+`$ sudo apt-get update && sudo apt-get upgrade && sudo apt-get install python3`
+
+Then start a local blockchain running
+
+`$ cd blockchain && npm install -g ganache && ganache-cli`
 
 Now start a new terminal, and install the Python libraries
 
