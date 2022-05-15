@@ -15,6 +15,14 @@ Now start a new terminal, and install the Python libraries
 
 `$ pip install -r requirements.txt`
 
+Now install Solidity
+
+`$ sudo add-apt-repository ppa:ethereum/ethereum && sudo apt-get update && sudo apt-get install solc`
+
+Then check Solidity is working
+
+`$ solc --version`
+
 Then test Python connectivity to the blockchain
 
 `$ pytest -v`
