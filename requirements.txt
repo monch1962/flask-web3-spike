@@ -96,6 +96,7 @@ psutil==5.9.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
 py==1.11.0
+py-solc==3.2.0
 pycodestyle==2.8.0
 pycparser==2.21
 pycryptodome==3.14.1
@@ -119,6 +120,7 @@ rich==12.0.1
 rlp==2.0.1
 rope==0.23.0
 SecretStorage==3.3.1
+semantic-version==2.9.0
 Send2Trash==1.8.0
 six==1.16.0
 smmap==5.0.0
