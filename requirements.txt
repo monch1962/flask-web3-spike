@@ -80,7 +80,7 @@ nbconvert==6.4.5
 nbformat==5.2.0
 nest-asyncio==1.5.5
 netaddr==0.8.0
-notebook==6.4.10
+notebook==6.4.12
 packaging==21.3
 pandocfilters==1.5.0
 parsimonious==0.8.1
