@@ -9,7 +9,7 @@ async-timeout==4.0.2
 attrs==21.4.0
 autopep8==1.6.0
 backcall==0.2.0
-bandit==1.7.4
+bandit==1.7.7
 base58==2.1.1
 beautifulsoup4==4.10.0
 bitarray==1.2.2
