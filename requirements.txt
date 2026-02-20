@@ -28,7 +28,7 @@ dill==0.3.4
 distlib==0.3.4
 docutils==0.18.1
 entrypoints==0.4
-eth-abi==2.1.1
+eth-abi==4.2.0
 eth-account==0.5.7
 eth-hash==0.3.2
 eth-keyfile==0.5.1
